@@ -4,7 +4,7 @@ terraform {
   required_providers {
     postgresql = {
       source = "cyrilgdn/postgresql"
-      version = "1.21.1-beta.1"
+      version = "1.21.0"
     }
 
     random = {
